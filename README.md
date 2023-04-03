@@ -1,5 +1,4 @@
-#swift
-Задачи с марафона по языку Swift
+# Задачи Swift марафона 
 Ссылка на марафон: https://docs.vibelab.ru/pages/viewpage.action?pageId=14450689
 
 1. Работа с базовыми типами

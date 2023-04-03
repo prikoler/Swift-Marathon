@@ -1,6 +1,6 @@
-# Задачи с марафона по языку Swift
+## Задачи с марафона по языку Swift
 
-## Ссылка на марафон: https://docs.vibelab.ru/pages/viewpage.action?pageId=14450689
+Ссылка на марафон: https://docs.vibelab.ru/pages/viewpage.action?pageId=14450689
 
 1. Работа с базовыми типами
 2. Массивы
